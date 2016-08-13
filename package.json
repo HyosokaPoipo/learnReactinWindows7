@@ -4,6 +4,7 @@
   "description": "I'm gonna master react using windows 7",
   "main": "index.js",
   "scripts": {
+    "start": "webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

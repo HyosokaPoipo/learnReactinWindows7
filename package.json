@@ -1,0 +1,22 @@
+{
+  "name": "learnreact",
+  "version": "1.0.0",
+  "description": "I'm gonna master react using windows 7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyosokaPoipo/learnReactinWindows7.git"
+  },
+  "keywords": [
+    "keywords"
+  ],
+  "author": "Hisoka Poipo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HyosokaPoipo/learnReactinWindows7/issues"
+  },
+  "homepage": "https://github.com/HyosokaPoipo/learnReactinWindows7#readme"
+}

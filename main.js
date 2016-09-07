@@ -18,7 +18,7 @@ App.defaultProps = {
 
 ReactDOM.render(
     <div>
-        <App poipo={3} test="This is my first property" hisoka="This is the second properties...;)"/>
+        <App poipo={3} hisoka="This is the second properties...;)"/>
 
     </div>
     , document.getElementById('app'))
